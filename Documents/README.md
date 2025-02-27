@@ -1,4 +1,4 @@
-﻿# STM32L4R9I-DISCO Discovery board
+# STM32L4R9I-DISCO Discovery board
 
 ## Overview
 
